@@ -59,22 +59,22 @@ And use only one print statement.](Day022.png)
 23. [JugsMugsPugsPlus and Reverse
 Write a program that receives a number on the input.
 It also should receive another boolean value 'rev' on the input. 
-   >> If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
-   >> If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
-   >> If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
-   >> If the number is a multiple of both 3 and 5, it prints "JugsMugs".
-         >> also if number contains 3 and 5, it prints "JugsMugs"
-   >> If the number is a multiple of both 3 and 7, it prints "JugsPugs".
-         >> also if number contains 3 and 7, it prints "JugsPugs"
-   >> If the number is a multiple of 3, 5 and 7, it prints "JugsMugPugs".
-         >> also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
-> Otherwise, it prints the number.
-> REVERSE REQUIREMENT:
-> If the boolean 'rev' is True, then reverse the order of printing. 
-    >> "PugsJugsMugs" for multiples of 3, 5 and 7
-    >> "PugsMugs" for multiple of 3 and 7
-    >> "MugsJugs" for multiple of 3 and 5 
-    >> "PugsJugs" for multiple of 5 and 7](Day023.png)
+If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
+If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
+If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
+If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+also if number contains 3 and 5, it prints "JugsMugs"
+If the number is a multiple of both 3 and 7, it prints "JugsPugs".
+also if number contains 3 and 7, it prints "JugsPugs"
+If the number is a multiple of 3, 5 and 7, it prints "JugsMugPugs".
+also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
+Otherwise, it prints the number.
+REVERSE REQUIREMENT:
+If the boolean 'rev' is True, then reverse the order of printing. 
+"PugsJugsMugs" for multiples of 3, 5 and 7
+"PugsMugs" for multiple of 3 and 7
+"MugsJugs" for multiple of 3 and 5 
+"PugsJugs" for multiple of 5 and 7](Day023.png)
 24. [NTERVIEW GRADE
 This is a frequently asked problem in technical interviews. It is also asked of 
 senior software developers to gauge their ability to think and write clean code. 
