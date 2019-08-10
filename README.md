@@ -28,3 +28,99 @@ To find the distance between two points (x1,y1) and (x2,y2), all that you need t
 The rules in Gregorian calendar are as follows:
 a year is a leap year if its number is exactly divisible by 4 and is not exactly divisible by 100
 a year is always a leap year if its number is exactly divisible by 400](Day016.md)
+17. [JugsMugs for Three and Five
+Write a program that receives a number on the input.
+If the number is a multiple of 3, it prints "Jugs". 
+If the number is a multiple of 5, it prints "Mugs".
+If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+Otherwise, it prints the number.
+](Day017.md)
+18. [Jugs for Three Write a program that receives a number on the input. If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number.](Day018.md)
+19. [Digit in Number Read two inputs. The first input is a digit. The second input is a number.
+Is the digit present in the number? If yes, return True. If no, return False.
+](Day019.md)
+20. [JugsMugsPugs Write a program that receives a number on the input. If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs". If the number is a multiple of 7, it prints "Pugs".
+If the number is a multiple of both 3 and 5, it prints "JugsMugs". If the number is a multiple of both 3 and 7, it prints "JugsPugs". If the number is a multiple of both 5 and 7, it prints "MugsPugs". If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".
+Otherwise, it prints the number.](Day020.md)
+21. [JugsMugsPugs LITE
+Write a program that receives a number on the input.
+  - If the number is a multiple of 3, it prints "Jugs". 
+  - If the number is a multiple of 5, it prints "Mugs".
+  - If the number is a multiple of 7, it prints "Pugs".](Day021.md)
+22. [JugsMugsPugs Plus
+Write a program that receives a number on the input.
+- If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
+- If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
+- If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
+Otherwise, it prints the number.
+SPECIAL REQUIREMENT: 
+Try and limit the number of conditional statements to not more than 4. 
+And use only one print statement.](Day022.md)
+23. [JugsMugsPugsPlus and Reverse
+Write a program that receives a number on the input.
+It also should receive another boolean value 'rev' on the input. 
+  - If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
+  - If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
+  - If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
+  - If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+        - also if number contains 3 and 5, it prints "JugsMugs"
+  - If the number is a multiple of both 3 and 7, it prints "JugsPugs".
+        - also if number contains 3 and 7, it prints "JugsPugs"
+  - If the number is a multiple of 3, 5 and 7, it prints "JugsMugPugs".
+        - also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
+Otherwise, it prints the number.
+REVERSE REQUIREMENT:
+If the boolean 'rev' is True, then reverse the order of printing. 
+   - "PugsJugsMugs" for multiples of 3, 5 and 7
+   - "PugsMugs" for multiple of 3 and 7
+   - "MugsJugs" for multiple of 3 and 5 
+   - "PugsJugs" for multiple of 5 and 7](Day023.md)
+24. [NTERVIEW GRADE
+This is a frequently asked problem in technical interviews. It is also asked of 
+senior software developers to gauge their ability to think and write clean code. 
+JugsMugsPugsPlusReverse Range
+- Write a program that receives a number on the input and prints values from 1 to   
+that number subjected to the conditions below. 
+- It also should receive another boolean value 'rev' on the input. 
+For every number in the given range, 
+  - If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
+  - If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".
+  - If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
+  - If the number is a multiple of both 3 and 5, it prints "JugsMugs".
+        - also if number contains 3 and 5, it prints "JugsMugs"
+  - If the number is a multiple of both 3 and 7, it prints "JugsPugs".
+        - also if number contains 3 and 7, it prints "JugsPugs"
+  - If the number is a multiple of 3, 5 and 7, it prints "JugsMugsPugs".
+        - also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
+Otherwise, it prints the number.
+REVERSE REQUIREMENT:
+If the boolean 'rev' is True, then reverse the order of printing. 
+   - "PugsJugsMugs" for multiples of 3, 5 and 7
+   - "PugsMugs" for multiple of 3 and 7
+   - "MugsJugs" for multiple of 3 and 5 
+   - "PugsJugs" for multiple of 5 and 7](Day024 and Day25.png)
+25. [INTERVIEW GRADE PROBLEM
+JugsMugsPugs Special
+SPECIAL REQUIREMENT: 
+Try and limit the number of conditional statements to not more than two. 
+This requires some advanced Python language knowledge. I don't expect everyone  
+to be able to complete this.
+Write a program that receives a number on the input and prints values from 1 to that number subjected to the conditions below. 
+It also should receive another boolean value 'rev' on the input. 
+For every number in the given range,   
+- If the number is a multiple of 3, or it contains digit 3, it prints "Jugs".   
+- If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".  
+- If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".
+- If the number is a multiple of both 3 and 5, it prints "JugsMugs".        
+  - also if number contains 3 and 5, it prints "JugsMugs"  
+- If the number is a multiple of both 3 and 7, it prints "JugsPugs".        
+  - also if number contains 3 and 7, it prints "JugsPugs"
+ - If the number is a multiple of 3, 5 and 7, it prints "JugsMugsPugs".
+       - also if number contains 3, 5 and 7, it prints "JugsMugsPugs"
+Otherwise, it prints the number.
+REVERSE REQUIREMENT:
+If the boolean 'rev' is True, then reverse the order of printing.    
+  - "PugsJugsMugs" for multiples of 3, 5 and 7   
+  - "PugsMugs" for multiple of 3 and 7   
+  - "MugsJugs" for multiple of 3 and 5    
+  - "PugsJugs" for multiple of 5 and 7](Day024 and Day25.png)
