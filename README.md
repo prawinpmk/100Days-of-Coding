@@ -239,6 +239,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
    - "PugsJugs" for multiple of 5 and 7
 ```
 25. [Day025](Day024 and Day025.md)
+
 ```
 JugsMugsPugs Special
 SPECIAL REQUIREMENT: 
