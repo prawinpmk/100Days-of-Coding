@@ -98,7 +98,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
    - "PugsJugsMugs" for multiples of 3, 5 and 7
    - "PugsMugs" for multiple of 3 and 7
    - "MugsJugs" for multiple of 3 and 5 
-   - "PugsJugs" for multiple of 5 and 7](Day024 and Day25.png)
+   - "PugsJugs" for multiple of 5 and 7](https://github.com/prawinpmk/100Days-of-Coding/blob/master/Day024%20and%20Day25.png)
 25. [INTERVIEW GRADE PROBLEM
 JugsMugsPugs Special
 SPECIAL REQUIREMENT: 
@@ -123,4 +123,4 @@ If the boolean 'rev' is True, then reverse the order of printing.
   - "PugsJugsMugs" for multiples of 3, 5 and 7   
   - "PugsMugs" for multiple of 3 and 7   
   - "MugsJugs" for multiple of 3 and 5    
-  - "PugsJugs" for multiple of 5 and 7](Day024 and Day25.png)
+  - "PugsJugs" for multiple of 5 and 7](https://github.com/prawinpmk/100Days-of-Coding/blob/master/Day024%20and%20Day25.png)
