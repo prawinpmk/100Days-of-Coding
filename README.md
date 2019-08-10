@@ -206,6 +206,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
    - "PugsJugs" for multiple of 5 and 7
 ```
 24. [Day024](Day024 and Day025.md)
+
 ```
 INTERVIEW GRADE
 This is a frequently asked problem in technical interviews. It is also asked of 
