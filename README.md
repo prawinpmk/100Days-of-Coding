@@ -44,9 +44,9 @@ If the number is a multiple of both 3 and 5, it prints "JugsMugs". If the number
 Otherwise, it prints the number.](Day020.md)
 21. [JugsMugsPugs LITE
 Write a program that receives a number on the input.
-  - If the number is a multiple of 3, it prints "Jugs". 
-  - If the number is a multiple of 5, it prints "Mugs".
-  - If the number is a multiple of 7, it prints "Pugs".](Day021.png)
+- If the number is a multiple of 3, it prints "Jugs". 
+- If the number is a multiple of 5, it prints "Mugs".
+- If the number is a multiple of 7, it prints "Pugs".](Day021.png)
 22. [JugsMugsPugs Plus
 Write a program that receives a number on the input.
 - If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". 
