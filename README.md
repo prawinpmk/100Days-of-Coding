@@ -42,8 +42,7 @@ Is the digit present in the number? If yes, return True. If no, return False.
 20. [JugsMugsPugs Write a program that receives a number on the input. If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs". If the number is a multiple of 7, it prints "Pugs".
 If the number is a multiple of both 3 and 5, it prints "JugsMugs". If the number is a multiple of both 3 and 7, it prints "JugsPugs". If the number is a multiple of both 5 and 7, it prints "MugsPugs". If the number is a multiple of both 3, 5 and 7, it prints "JugsMugsPugs".
 Otherwise, it prints the number.](Day020.md)
-21. [JugsMugsPugs LITE
-Write a program that receives a number on the input.
+21. [JugsMugsPugs LITEWrite a program that receives a number on the input.
 - If the number is a multiple of 3, it prints "Jugs". 
 - If the number is a multiple of 5, it prints "Mugs".
 - If the number is a multiple of 7, it prints "Pugs".](Day021.png)
