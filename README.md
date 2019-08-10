@@ -205,7 +205,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
    - "MugsJugs" for multiple of 3 and 5 
    - "PugsJugs" for multiple of 5 and 7
 ```
-24. [Day024](https://github.com/prawinpmk/100Days-of-Coding/blob/master/Day024%20and%20Day25.png)
+24. [Day024](Day024 and Day025.md)
 ```
 INTERVIEW GRADE
 This is a frequently asked problem in technical interviews. It is also asked of 
@@ -238,7 +238,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
    - "MugsJugs" for multiple of 3 and 5 
    - "PugsJugs" for multiple of 5 and 7
 ```
-25. [Day025](https://github.com/prawinpmk/100Days-of-Coding/blob/master/Day024%20and%20Day25.png)
+25. [Day025](Day024 and Day025.md)
 ```
 JugsMugsPugs Special
 SPECIAL REQUIREMENT: 
