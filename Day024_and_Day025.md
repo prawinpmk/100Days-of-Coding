@@ -1,4 +1,4 @@
-[![Day024 and 25.png](https://b.imge.to/2019/08/10/QeJct.png)](https://imge.to/i/QeJct)
+[![Day024_and_Day025.md.png](https://b.imge.to/2019/08/10/QeJct.png)](https://imge.to/i/QeJct)
 ```
 INPUT 
 5
