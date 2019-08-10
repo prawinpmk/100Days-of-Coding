@@ -205,7 +205,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
    - "MugsJugs" for multiple of 3 and 5 
    - "PugsJugs" for multiple of 5 and 7
 ```
-24. [Day024](Day024 and Day025.md)
+24. [Day024](Day024_and_Day025.md)
 
 ```
 INTERVIEW GRADE
@@ -239,7 +239,7 @@ If the boolean 'rev' is True, then reverse the order of printing.
    - "MugsJugs" for multiple of 3 and 5 
    - "PugsJugs" for multiple of 5 and 7
 ```
-25. [Day025](Day024 and Day025.md)
+25. [Day025](Day024_and_Day025.md)
 
 ```
 JugsMugsPugs Special
