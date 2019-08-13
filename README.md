@@ -272,21 +272,21 @@ If the boolean 'rev' is True, then reverse the order of printing.
   - "MugsJugs" for multiple of 3 and 5    
   - "PugsJugs" for multiple of 5 and 7
 ```
-26. [Day16-Prgm26](Day17 prgm26.md)
+26. [Day16-Prgm26](https://github.com/this-is-praveen/100Days-of-Coding/blob/master/Day16%20prgm26.md)
 ```
 Statement
 N numbers are given in the input. Read them and print their sum.
 
 The first line of input contains the integer N, which is the number of integers to follow. Each of the next N lines contains one integer. Print the sum of these N integers.
 ```
-27. [Day16-Prgm27](Day16 prgm27.md)
+27. [Day16-Prgm27](https://github.com/this-is-praveen/100Days-of-Coding/blob/master/Day16%20prgm27.md)
 ```
 Statement
 For the given integer N calculate the following sum:
 
 1³ + 2³ + ... + N³
 ```
-28. [Day16-Prgm28](Day17 prgm28.md)
+28. [Day16-Prgm28](https://github.com/this-is-praveen/100Days-of-Coding/blob/master/Day16%20prgm28.md)
 ```
 Statement
 In mathematics, the factorial of an integer n, denoted by n! is the following product:
@@ -299,7 +299,7 @@ For the given integer n calculate the value
 
 Try to discover the solution that uses only one for-loop. And don't use math module in this exercise.
 ```
-29. [Day17-Prgm29](Day17 prgm29.md)
+29. [Day17-Prgm29](https://github.com/this-is-praveen/100Days-of-Coding/blob/master/Day17%20prgm29.md)
 ```
 Statement
 For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.
@@ -307,7 +307,7 @@ For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of t
 To do that, you can use the sep and end arguments for the function print().
 
 ```
-30. [Day17-Prgm30](Day17 prgm30.md)
+30. [Day17-Prgm30](https://github.com/this-is-praveen/100Days-of-Coding/blob/master/Day17%20prgm30.md)
 ```
 Statement
 There was a set of cards with numbers from 1 to N. One of the card is now lost. Determine the number on that lost card given the numbers for the remaining cards.
@@ -315,7 +315,7 @@ There was a set of cards with numbers from 1 to N. One of the card is now lost. 
 Given a number N, followed by N − 1 integers representing the numbers on the remaining cards (distinct integers in the range from 1 to N). Find and print the number on the lost card.
 
 ```
-31. [Day17-Prgm31](Day17 prgm31.md)
+31. [Prgm31](https://github.com/this-is-praveen/100Days-of-Coding/blob/master/Day17%20prgm31.md)
 ```
 The Missing Spy Plane
 The Indian Air Force (IAF)  is using more than 10,000 spy planes to  
