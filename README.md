@@ -315,7 +315,7 @@ There was a set of cards with numbers from 1 to N. One of the card is now lost. 
 Given a number N, followed by N − 1 integers representing the numbers on the remaining cards (distinct integers in the range from 1 to N). Find and print the number on the lost card.
 
 ```
-31. [Prgm31](https://github.com/this-is-praveen/100Days-of-Coding/blob/master/Day17%20prgm31.md)
+31. [Day17-Prgm31](https://github.com/this-is-praveen/100Days-of-Coding/blob/master/Day17%20prgm31.md)
 ```
 The Missing Spy Plane
 The Indian Air Force (IAF)  is using more than 10,000 spy planes to  
@@ -331,4 +331,9 @@ sorted or sequential.
 the missing spy plane. 
 2. If no plane is found missing, then print "All arrived!"  
 
+```
+32. [Day18-Prgm32](https://github.com/this-is-praveen/100Days-of-Coding/blob/master/Day18%20prgm32.md)
+```
+Statement
+Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.
 ```
